@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <PsychicAmplifier.label>arcane shard</PsychicAmplifier.label>
+    <PsychicAmplifier.description>A shard of pure mana crystal that has the power to attune a user to magic or upgrade their magical ability.\n\nTo use it, the aspiring mage must focus fully on the shard, entering a meditative state while holding it. As an item of pure mana, by touching it and opening themselves up to magic the user allows the shard to channel a large amount of mana directly into their mana core, even if it was dormant until that moment. As the mana streams into the user, it stresses the crystalline structure of the shard causing it to break down into a fine worthless powder.</PsychicAmplifier.description>
+    <PsychicAmplifier.comps.0.useLabel>Use arcane shard to increase magical ability</PsychicAmplifier.comps.0.useLabel>
+</LanguageData>

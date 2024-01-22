@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Vanilla Factions Expanded - Medieval</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/FactionDef[@Name="VFEM_MedievalFactionBase"]/caravanTraderKinds</xpath>
+                    <value>
+                        <li>Caravan_ArcaneTrader</li>
+                        <li>Caravan_AlchemistTrader</li>
+                        <li>Caravan_LibrarianTrader</li>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Medieval Overhaul</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/FactionDef[@Name="DankPyon_NobleHouseFactionBase"]/caravanTraderKinds</xpath>
+                    <value>
+                        <li>Caravan_ArcaneTrader</li>
+                        <li>Caravan_AlchemistTrader</li>
+                        <li>Caravan_LibrarianTrader</li>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Mr Samuel Streamer's Custom Faction</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/FactionDef[@Name="PatreonFactionBase"]/caravanTraderKinds</xpath>
+                    <value>
+                        <li>Caravan_ArcaneTrader</li>
+                        <li>Caravan_AlchemistTrader</li>
+                        <li>Caravan_LibrarianTrader</li>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Vanilla Factions Expanded - Classical</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/FactionDef[@Name="VFEC_RepublicBase"]/caravanTraderKinds</xpath>
+                    <value>
+                        <li>Caravan_ArcaneTrader</li>
+                        <li>Caravan_AlchemistTrader</li>
+                        <li>Caravan_LibrarianTrader</li>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+</Patch>

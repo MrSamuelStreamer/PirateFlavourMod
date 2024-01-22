@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <Autosaving>The bard takes notes</Autosaving>
+
+    <TechprintLabel>{PROJECT_label} treatise</TechprintLabel>
+    <TechprintDesc>This is a treatise on '{PROJECT_label}'.
+        \nIn order to become a master, a journeyman must demonstrate their understanding of their area of training. One commonway of demonstrating this knowledge is by way of a written work expounding on the principles involved in their chosen field. The physical form of a treatise can range from wax tablets or scraps of paper with diagrams, all the way to detailed tomes and may involve an item demonstrating the concepts at play. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used by others investigating this subject.
+        \nYour researchers need the foundational knowledge offered by a treatise to know where to start on a given idea. Only after enough treatises have been studied can your researchers work out the fine details of how to make use of this new concept in your particular situation.
+        \nThe insights from examining a treatise for a project your researchers are already confident in, will allow your researchers to skip half of the remaining research work. In addition, researchers always gain a boost to their mental faculties when analysing a treatise, even on already-completed projects.</TechprintDesc>
+    <ColonistDied>Party member died</ColonistDied>
+
+    <!-- Legal status -->
+    <Colonist>party member</Colonist>
+</LanguageData>

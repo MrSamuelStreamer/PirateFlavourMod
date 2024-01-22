@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <LetterLabelPsylinkLevelGained>Magic level gained</LetterLabelPsylinkLevelGained>
+    <LetterPsylinkLevelGained_First>{USER_labelShort} has gained {USER_possessive} first level of magical attunement! {USER_pronoun} is now a mage.\n\nTo use magic, {USER_labelShort} must build up mana through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Mages with royal titles meditate on their thrones.\n- Mages with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic mages meditate to blank walls.\n- Psychopathic mages meditate to graves, ideally with a loved one inside.\n\nYou can see someone's magical focus types by looking at their info card with the 'i' button.</LetterPsylinkLevelGained_First>
+    <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} has gained a new level of magical attunement! {USER_pronoun} can now use magic spells of that higher level, but {USER_pronoun} needs to learn them first.</LetterPsylinkLevelGained_NotFirst>
+    <LetterPsylinkLevelGained_PsycastLearned>Upon gaining the new magical attunement level, {USER_labelShort} automatically learned these spells: {2}</LetterPsylinkLevelGained_PsycastLearned>
+    <LetterPsychicInspiration>Thanks to {CASTER_nameIndef}'s magical suggestion, {PAWN_nameIndef} has experienced an inspiration!</LetterPsychicInspiration>
+    <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the arcane rewards for all titles which were not yet awarded.</LetterTextBestowingCeremonyTitleUpdated>
+
+    <!-- Quest drop pods arrived -->
+    <LetterLabelQuestDropPodsArrived>Gliders arrived</LetterLabelQuestDropPodsArrived>
+    <LetterQuestDropPodsArrived>Gliders with the following contents have arrived:\n\n{0}</LetterQuestDropPodsArrived>
+
+    <!-- Custom config check -->
+    <RPGAdventureFlavourPackSettings_Core_ConfigsApplied>Don't warn about missing pack config</RPGAdventureFlavourPackSettings_Core_ConfigsApplied>
+    <RPGAdventureFlavourPack_Config_Warning_Label>Config Warning</RPGAdventureFlavourPack_Config_Warning_Label>
+    <RPGAdventureFlavourPack_Config_Warning_Message>If you are seeing this message while trying to play along with Mr Samuel Streamer's RPG modpack it means you probably haven't downloaded or correctly applied the recommended configs. Please make sure you have followed the mod configs section of the pack setup instructions available on the steam collection page for Rimworld: RPG Medieval Adventure\n\nIf you are not playing along with the modpack and have just downloaded the RPG flavour mod for your own RPG style playthrough, that's great! Sorry for the inconvenience!\n\nIf you'd like to permenantly disable this warning without downloading the configs for the pack simply tick the box marked "Don't warn about missing pack config" in the RPG Flavour Mod settings.</RPGAdventureFlavourPack_Config_Warning_Message>
+
+    <RPGAdventureFlavourPack_FallbackMonsterLabel>Monster</RPGAdventureFlavourPack_FallbackMonsterLabel>
+    <RPGAdventureFlavourPack_FallbackMonsterDescription>Unfortunately no information is available about this monster. Any witnesses are either dead or when asked they break down gibbering in terror, providing no useful information.</RPGAdventureFlavourPack_FallbackMonsterDescription>
+
+    <!-- Relic hunt -->
+    <LetterTextRelicFoundSecurityThreats>The relic is housed in an ancient structure. Being an artifact of great significance, it may be guarded. You may choose to face the final challenge head on before taking the relic, or try to grab it and flee before you become yet another pile of bones in the surrounding area.\n\nIt may be possible to sneak around unnoticed for {0}, good luck.</LetterTextRelicFoundSecurityThreats>
+</LanguageData>
