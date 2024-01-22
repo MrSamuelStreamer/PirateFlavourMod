@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# RPG Adventure Flavour Pack
+# Pirate Flavour Pack
 
 ![Mod Version](https://img.shields.io/badge/Mod_Version-1.0.1-blue.svg)
 ![RimWorld Version](https://img.shields.io/badge/Built_for_RimWorld-1.4-blue.svg)
@@ -12,10 +12,9 @@
 ![Steam Downloads](https://img.shields.io/steam/downloads/2916348220?colorB=blue&label=Steam+Downloads)
 ![GitHub Downloads](https://img.shields.io/github/downloads/Roll1D2Games/RPGFantasyFlavourMod/total?colorB=blue&label=GitHub+Downloads)
 
-This mod adds some Medieval RPG flavour to Rimworld and select other mods with the aim of making an RPG style playthrough feel more alive.
-This is mostly done via simple renames with a few extra patches and re-textures to make some mods gel with other supporting mods.
+This mod is designed to add a retheme to Rimworld to suit a Golden Age of Piracy/Age of Sail type playthrough, designed to be flexible for either true medieval/early-Industrial playthroughs or the standard Rimworld tech progression.
 
-This mod was made to support the Mr Samuel Streamer [Rimworld: RPG Adventure World collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2908695387) for his [YouTube series](https://www.youtube.com/playlist?list=PLNWGkqCSwkOHznnLAMzwpy-pO0pR7Wr6r)  
+This mod was made to support the Mr Samuel Streamer [Rimworld: RPG Adventure World collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2908695387) for his [YouTube series](https://www.youtube.com/mrsamstreamer)  
 
 This mod builds on many others including:
 * [Vanilla Psycasts expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2842502659)
